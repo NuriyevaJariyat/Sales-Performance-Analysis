@@ -8,6 +8,7 @@ The analysis was conducted using SQL and Power BI.
 
 ## Dashboard Preview
 ![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](dashboard1.png)
 
 ## Tools & Technologies
 
