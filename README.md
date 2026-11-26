@@ -6,6 +6,9 @@ This project focuses on analyzing sales data to identify business trends, evalua
 
 The analysis was conducted using SQL and Power BI.
 
+## Dashboard Preview
+![Power BI Dashboard](dashboard.png)
+
 ## Tools & Technologies
 
 - **SQL (MySQL):** Data exploration, data quality checks, data analysis, JOINs, aggregations, and calculations.
